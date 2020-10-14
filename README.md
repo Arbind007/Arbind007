@@ -3,7 +3,7 @@
 
 **Arbind007/Arbind007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1 align="center">Hi 👋, I'm Arbind Locha</h1>
+<h1 align="center">Hi 👋, I'm Arbind Lochan Mishra</h1>
 <h3 align="center">I like to learn new things and try them out myself. I'm interested in IoT and electronics.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arbind007" alt="Arbind007" /> </p>
