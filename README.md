@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arbind007" alt="Arbind007" /> </p>
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **Data Structre and Algorithm in Js**
 
 - 👯 I’m looking to collaborate on **any project for beginners.**
 
@@ -17,7 +17,7 @@
 - ⚡ Fun fact: **I love to learn new things**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arbind007&show_icons=true&theme=dracula" alt="Arbind007" /> </p>
 
-<p align="center">
+
   
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin] 
@@ -34,5 +34,5 @@
 
 
 
-</p>
+
 
