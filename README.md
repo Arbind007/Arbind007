@@ -27,7 +27,7 @@
 
 
 [website]: https://arbindlochanmishra.netlify.app
-[twitter]: https://twitter.com/bradgarropy
+[twitter]: https://twitter.com/LochanArbind
 [youtube]: https://youtube.com/channel/UCnqfsi4ZCulbH3s7uDks-EQ
 [instagram]: https://www.instagram.com/lonely_traveller15/
 [linkedin]: https://www.linkedin.com/in/arbind-lochan-mishra-4a3081199/
