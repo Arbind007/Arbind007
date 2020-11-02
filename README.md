@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **any project for beginners.**
 
-- 💬 Ask me about **basic programming concepts in C/C++ or Python.**
+- 💬 Ask me about **basic programming concepts in C++, JavaScript or Python.**
 
 - ⚡ Fun fact: **I love to learn new things**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arbind007&show_icons=true&theme=dracula" alt="Arbind007" /> </p>
