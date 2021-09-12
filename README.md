@@ -49,7 +49,7 @@
 <br>
 
 🏡 [website][website] **|** 
-👔 [linkedin][linkedin] 
+👔 [linkedin][linkedin] **|**
 📷 [instagram][instagram] **|** 
 📺 [youtube][youtube] **|**
 🐦 [twitter][twitter] **|** 
