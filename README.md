@@ -6,7 +6,7 @@
 <h1 align="center">I'm Arbind Lochan Mishra</h1>
 <h3 align="center">I like to learn new things and try them out myself. I'm interested in Cyber Security & Web Development</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Arbind007" alt="Arbind007" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Arbind007&color=brightgreen&style=plastic" alt="Arbind007" /> </p>
 
 - 🌱 I’m currently learning **Data Structre and Algorithm in Js**
 
