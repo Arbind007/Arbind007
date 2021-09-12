@@ -15,8 +15,8 @@
 - 💬 Ask me about **basic programming concepts in C++, JavaScript or Python.**
 
 - ⚡ Fun fact: **I love to learn new things**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arbind007&show_icons=true&theme=react" alt="Arbind007" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbind007&theme=react&layout=compact" alt="Rahul Kumar VH :: Top language" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arbind007&show_icons=true&theme=midnight-purple" alt="Arbind007" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbind007&theme=midnight-purple&layout=compact" alt="Rahul Kumar VH :: Top language" /></p>
 
 
   
