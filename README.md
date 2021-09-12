@@ -19,20 +19,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbind007&theme=chartreuse-dark&layout=compact" alt="Rahul Kumar VH :: Top language" /></p>
 
 
-  
-🏡 [website][website] **|** 
-👔 [linkedin][linkedin] 
-📷 [instagram][instagram] **|** 
-📺 [youtube][youtube] **|**
-🐦 [twitter][twitter] **|** 
-
-
-[website]: https://arbindlochanmishra.netlify.app
-[twitter]: https://twitter.com/LochanArbind
-[youtube]: https://youtube.com/channel/UCnqfsi4ZCulbH3s7uDks-EQ
-[instagram]: https://www.instagram.com/lonely_traveller15/
-[linkedin]: https://www.linkedin.com/in/arbind-lochan-mishra-4a3081199/
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -67,4 +53,17 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+🏡 [website][website] **|** 
+👔 [linkedin][linkedin] 
+📷 [instagram][instagram] **|** 
+📺 [youtube][youtube] **|**
+🐦 [twitter][twitter] **|** 
+
+
+[website]: https://arbindlochanmishra.netlify.app
+[twitter]: https://twitter.com/LochanArbind
+[youtube]: https://youtube.com/channel/UCnqfsi4ZCulbH3s7uDks-EQ
+[instagram]: https://www.instagram.com/lonely_traveller15/
+[linkedin]: https://www.linkedin.com/in/arbind-lochan-mishra-4a3081199/
 
