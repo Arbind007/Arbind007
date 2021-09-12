@@ -19,9 +19,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbind007&theme=chartreuse-dark&layout=compact" alt="Rahul Kumar VH :: Top language" /></p>
 
 
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-
   
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin] 
@@ -36,7 +33,8 @@
 [instagram]: https://www.instagram.com/lonely_traveller15/
 [linkedin]: https://www.linkedin.com/in/arbind-lochan-mishra-4a3081199/
 
-
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
 
