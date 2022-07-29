@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arbind007&color=brightgreen&style=plastic" alt="Arbind007" /> </p>
 
-- 🌱 I’m currently learning **Data Structre and Algorithm in Js**
+- 🌱 I’m currently learning **Data Structre and Algorithm in C++**
 
 - 👯 I’m looking to collaborate on **any project for beginners.**
 
